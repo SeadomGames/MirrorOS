@@ -12,7 +12,7 @@ ____________________________________________________
 Want to verify our License? Visit the LICENSE file.
 ____________________________________________________
 Need help? Check out the PDF files in the main-stream branch. .pdf files are reserved for documentation and help guides, and should not be used otherwise anyless an admin gives permission.
-***************************************************
+(((((((((((((((((((((
 
 v.b.0.1
 
@@ -24,4 +24,4 @@ Basic Graphics and Looks
 Fully Functional OS
 _________________
 
-***************************************************
+))))))))))))))))))))
