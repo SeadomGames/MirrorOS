@@ -12,16 +12,17 @@ ____________________________________________________
 Want to verify our License? Visit the LICENSE file.
 ____________________________________________________
 Need help? Check out the PDF files in the main-stream branch. .pdf files are reserved for documentation and help guides, and should not be used otherwise anyless an admin gives permission.
-(((((((((((((((((((((
 
+_________________
 v.b.0.1
 
 Features:
 _________________
 Camera app
+_________________
 Settings app (Nonfunctional)
+_________________
 Basic Graphics and Looks
+_________________
 Fully Functional OS
 _________________
-
-))))))))))))))))))))
